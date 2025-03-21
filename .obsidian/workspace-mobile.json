@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "af022f34d82842cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccdee92954fe0168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c78da31e9d7f68",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "手机同步测试/2013-09-7745.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "2013-09-7745"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a91fcac40cb877b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cde946564756d5a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "d42004df83caa27e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "c53c588f824ecb7d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "bb59ac9b68618cc2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a4d3af89dbff6a0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16765a3ab8dab5aa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "手机同步测试/2013-09-7745.jpg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "68a07be15fdc0ed6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "手机同步测试/2013-09-7745.jpg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "5fb5cd8dc76af0c4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "手机同步测试/2013-09-7745.jpg",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b4c78da31e9d7f68",
+  "lastOpenFiles": [
+    "Sheep.jpg",
+    "README.md",
+    "jt sm20231122-3.png",
+    "jt sm20231122-2.png",
+    "jt sm20231122-1.png",
+    "jt sm20231121.png",
+    "20180618161740_VEevx.png",
+    "7d064c90bc510d0bed35c5f07505ef2bde591919.png@1256w_762h_!web-article-pic.webp",
+    "006cbXbDgy1h653c4gc17j33tt5gvx6q.jpg"
+  ]
+}
