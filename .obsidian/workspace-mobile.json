@@ -30,37 +30,12 @@
             "id": "a6c4902656b96ab4",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "image",
               "state": {
-                "file": "手机同步测试/2013-09-7745.jpg",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.822918476146557,
-                  "close": false
-                }
+                "file": "手机同步测试/2013-09-7745.jpg"
               },
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-image",
+              "title": "2013-09-7745"
             },
             "group": "28f2f2be38d069a2"
           }
