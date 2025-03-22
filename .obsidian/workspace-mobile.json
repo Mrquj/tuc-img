@@ -17,7 +17,52 @@
               },
               "icon": "lucide-image",
               "title": "2013-09-7745"
-            }
+            },
+            "group": "28f2f2be38d069a2"
+          }
+        ]
+      },
+      {
+        "id": "5585461d7acc5810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c4902656b96ab4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "手机同步测试/2013-09-7745.jpg",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.822918476146557,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            },
+            "group": "28f2f2be38d069a2"
           }
         ]
       }
@@ -153,14 +198,15 @@
   },
   "active": "b4c78da31e9d7f68",
   "lastOpenFiles": [
-    "Sheep.jpg",
-    "README.md",
+    "7d064c90bc510d0bed35c5f07505ef2bde591919.png@1256w_762h_!web-article-pic.webp",
     "jt sm20231122-3.png",
+    "README.md",
+    "手机同步测试/2013-09-7745.jpg",
+    "Sheep.jpg",
     "jt sm20231122-2.png",
     "jt sm20231122-1.png",
     "jt sm20231121.png",
     "20180618161740_VEevx.png",
-    "7d064c90bc510d0bed35c5f07505ef2bde591919.png@1256w_762h_!web-article-pic.webp",
     "006cbXbDgy1h653c4gc17j33tt5gvx6q.jpg"
   ]
 }
